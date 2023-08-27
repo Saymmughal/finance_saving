@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "13104187570",
+    "project_id": "finance-saving",
+    "storage_bucket": "finance-saving.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13104187570:android:9963ca29a10532832e61ab",
+        "android_client_info": {
+          "package_name": "com.example.finacialSaving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13104187570-71c2srsmclorubmg0vluhmpqfk3b7ili.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finacialSaving",
+            "certificate_hash": "3cac830880e10c54785d9abb22a2eeda1855e4af"
+          }
+        },
+        {
+          "client_id": "13104187570-5e0g5p25cv2nf2nnq57js1adkm1lumfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1KFcErwP_0uv0x51FV8AUeFgJrZCz8Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13104187570-5e0g5p25cv2nf2nnq57js1adkm1lumfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
